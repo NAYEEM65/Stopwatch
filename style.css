@@ -50,6 +50,7 @@ h3 {
   width: 125px !important;
   background-color: #6ebf5d !important;
   transition: all 0.3 cubic-bezier(0.075, 0.82, 0.165, 1);
+  margin-top: 10px;
 }
 .btn:active {
   transform: scale(0.95);
